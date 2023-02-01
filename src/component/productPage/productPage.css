@@ -1,0 +1,27 @@
+#product-title{
+    background-color: skyblue;
+    text-align: center;
+}
+
+#page-container{
+    display: flex;
+    width: 94%;
+    margin: 10px auto;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#page-container>button{
+    width: 80px;
+    height: 30px;
+}
+
+#filter{
+    text-align: center;
+    margin: 10px auto;
+    position: relative;
+    left: 45%;
+    width: 200px;
+    height: 40px;
+    font-size: 1.3em;
+}
